@@ -1,6 +1,6 @@
 # 🦊 Hi there, I'm Daniele:
 👨🏼‍🎓 Master's candidate in Computer Engineering at the University of Brescia, Italy
-<br>💫 Constantly learning in the vast field of software development. Also exploring the concepts and techniques of Machine Learning with interest
+<br>💫 Constantly learning in the vast field of software development. Also exploring the concepts and techniques of Machine Learning
 <br>👨🏼‍💻 Currently working on my thesis: a Neuro-Symbolic System for Non-Deterministic Planning<br><br>
 
 
